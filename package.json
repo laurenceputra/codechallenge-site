@@ -5,7 +5,9 @@
   "author": "laurenceputra",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "node index.js",
+    "postinstall": "./node_modules/grunt-cli/bin/grunt build"
   },
   "dependencies": {
     "adaro": "^0.1.7",

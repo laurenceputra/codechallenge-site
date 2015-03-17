@@ -2,7 +2,7 @@
 
 var express = require('express');
 var kraken = require('kraken-js');
-
+require('newrelic');
 
 var options, app;
 
