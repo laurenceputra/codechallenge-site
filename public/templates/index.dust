@@ -1,5 +1,138 @@
 {>"layouts/master" /}
 
 {<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
+<div class="splash-container" style="height:600px">
+    <div class="splash">
+    	<img class="splash-logo" src="/img/codeChallenge.jpg">
+        <p class="splash-subhead">
+            Are you up for the PayPal CodeChallenge 2015?
+        </p>
+        <p>
+            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
+        </p>
+    </div>
+</div>
+<div class="content-wrapper">
+    <div class="content">
+        <h2 class="content-head is-center">More Info</h2>
+
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+
+                <h3 class="content-subhead">
+                    Fees
+                </h3>
+                <p>
+                    From the company that brought you Battlehack, well, this event will be free. Just register to ensure we prepare enough food and swag, and bring your brains to win the challenge.
+                </p>
+                
+                <h3 class="content-subhead">
+                    Where
+                </h3>
+                <p>
+                    The challenge will begin in your house. Yes, you get to code in the comforts of your home, surrounded by your surround sound systems, with 6 monitors if you want (and have it of course).
+                </p>
+                <p>
+                    The next day, you come to PayPal's awesome office (don't trust us. trust the <a href="https://www.flickr.com/photos/laurenceputra/sets/72157649054128534/" target="_blank">photos from the various meetups we have hosted</a>.) to learn the solutions, and collect your prizes.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+                <h3 class="content-subhead">
+                    Eligibility
+                </h3>
+                <p>
+                    This event is open to
+                </p>
+                <ul>
+                    <li>NTU students</li>
+                    <li>NUS students</li>
+                    <li>SMU students</li>
+                    <li>SUTD students</li>
+                    <li>...</li>
+                </ul>
+                <p>Ok, I give up listing all the universities. As long as you are <i>currently</i> enrolled in a university based in Singapore, and have a <i>student/matric/university</i> card, you are eligible for this competition.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="pure-u-1 content">
+            <h2 class="content-head content-head-ribbon">What can I win?</h2>
+            <p><b>The iron man suit!</b></p>
+            <p>Well no. Not really. But our engineers are hard at working looking for geeky prizes for you. So keep your eyes open on this spot, and we will update the prizes here once we've got them.</p>
+        </div>
+    </div>
+    <div class="content">
+        <div class="pure-g">
+            <div class="l-box pure-u-1">
+                <div class="end-float">
+                    <h2 class="content-head is-center">What is going to happen?</h2>
+                </div>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+                <div class="end-float">
+                    <h2 class="content-head is-center">Day 1</h2>
+                    <table class="pure-table pure-table-horizontal">
+                        <thead>
+                            <tr>
+                                <td>Time</td>
+                                <td>What's happening</td>
+                                <td>Duration</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>6:45pm</td>
+                                <td>Prepare for the challenge! Switch on the computer, the 6 screens, and whatever gets you into the zone.</td>
+                                <td>15 mins</td>
+                            </tr>
+                            <tr>
+                                <td>7:00pm</td>
+                                <td>The actual challenge! Get into the zone, and clear all the coding challenges!</td>
+                                <td>2 hours</td>
+                            </tr>
+                            <tr>
+                                <td>8:45pm</td>
+                                <td>Challenge Ends! You have until 9pm to submit your solutions, after which our machine is going to reject your solutions, however beautifully they are crafted.</td>
+                                <td>15 mins</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+                <div class="end-float">
+                    <h2 class="content-head is-center">Day 2</h2>
+                    <table class="pure-table pure-table-horizontal">
+                        <thead>
+                            <tr>
+                                <td>Time</td>
+                                <td>What's happening</td>
+                                <td>Duration</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>10:00am</td>
+                                <td>Come to the PayPal office for breakfast, and mingle with the other contestants. Share your solutions with each other, learn from one another.</td>
+                                <td>30 mins</td>
+                            </tr>
+                            <tr>
+                                <td>10:30am</td>
+                                <td>Our challenge master will reveal the solutions.</td>
+                                <td>1 hour</td>
+                            </tr>
+                            <tr>
+                                <td>11:30am</td>
+                                <td>The moment you have been waiting for. The prizes. You will get your prizes here, after which you can continue mingling with the other participants, and head out to nearby restaurants to celebrate.</td>
+                                <td>15 mins</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 {/body}
