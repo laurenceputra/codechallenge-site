@@ -1,5 +1,84 @@
 {>"layouts/master" /}
 
 {<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
+<div class="splash-container" style="height:600px">
+    <div class="splash">
+    	<img class="splash-logo" src="/img/codeChallenge.jpg">
+        <p class="splash-subhead">
+            Are you up for the PayPal CodeChallenge 2015?
+        </p>
+        <p>
+            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
+        </p>
+    </div>
+</div>
+<div class="content-wrapper">
+    <div class="content">
+        <h2 class="content-head is-center">More Info</h2>
+
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+
+                <h3 class="content-subhead">
+                    Fees
+                </h3>
+                <p>
+                    From the company that brought you Battlehack, well, this event will be free. Just register to ensure we prepare enough food and swag, and bring your brains to win the challenge.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+                <h3 class="content-subhead">
+                    Eligibility
+                </h3>
+                <p>
+                    This event is open to
+                </p>
+                <ol>
+                    <li>NTU students</li>
+                    <li>NTU alumni</li>
+                    <li>Shipeng</li>
+                    <li>Deepank</li>
+                </ol>
+            </div>
+        </div>
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+
+                <h3 class="content-subhead">
+                    About Us
+                </h3>
+                <p>
+                    We are a social empowerment initiative for youth in Singapore, and aim to allow students to explore areas of interest in non-academic pathways. For more details check out our <a class="light-link" href="/about">About Us</a> page.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2">
+                <h3 class="content-subhead">
+                    Our History
+                </h3>
+                <p>
+                    We started out in 2011 as a small-scale community outreach seminar, under the auspices of the United Nations Association of Singapore. Read more about our history<a class="light-link" href="/about#history">here</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="pure-u-1 content">
+            <h2 class="content-head content-head-ribbon">What can I win?</h2>
+            <p>The iron man suit!</p>
+            <p>Well no. Not really. But we have a whole bunch of exciting prizes for you to win. So come on in and try your hand to claim one of our prizes.</p>
+        </div>
+    </div>
+    <div class="content">
+        <div class="pure-g">
+            <div class="l-box pure-u-1">
+                <div class="end-float">
+                    <h2 class="content-head is-center">What is going to happen?</h2>
+                    <p>I have no idea</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 {/body}
