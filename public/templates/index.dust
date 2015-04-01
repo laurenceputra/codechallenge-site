@@ -1,14 +1,18 @@
 {>"layouts/master" /}
 
 {<body}
-<div class="splash-container" style="height:600px">
+<div class="splash-container" style="height:400px">
     <div class="splash">
-    	<img class="splash-logo" src="/img/codeChallenge.jpg">
+        <div class="pure-g">
+            <div class="pure-u-1-2"><img class="splash-logo" src="/img/PP_WhiteLogo.png" /></div>
+            <div class="pure-u-1-2"><img class="splash-logo" src="/img/codeChallenge.jpg" /></div>
+        </div>
         <p class="splash-subhead">
             Are you up for the PayPal CodeChallenge 2015?
         </p>
         <p>
-            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
+            <a href="https://docs.google.com/forms/d/1I0Ln_BVCt5Cs_X3oP4QflllzTa_I0C7Kgqpq_nUbWKk/viewform" class="pure-button pure-button-primary">Sign up now!</a> 
+            <a href="https://www.facebook.com/PayPalCodeChallenge" class="pure-button pure-button-primary">Follow FB page!</a>
         </p>
     </div>
 </div>
@@ -50,7 +54,7 @@
                     <li>SUTD students</li>
                     <li>...</li>
                 </ul>
-                <p>Ok, I give up listing all the universities. As long as you are <i>currently</i> enrolled in a university based in Singapore, and have a <i>student/matric/university</i> card, you are eligible for this competition.</p>
+                <p>Ok, I give up listing all the schools. As long as you are <i>currently</i> enrolled in a school based in Singapore, and have a <i>student/matric/university</i> card, you are eligible for this competition.</p>
             </div>
         </div>
     </div>
@@ -71,7 +75,7 @@
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2">
                 <div class="end-float">
-                    <h2 class="content-head is-center">Day 1</h2>
+                    <h2 class="content-head is-center">Day 1(17th Apr)</h2>
                     <table class="pure-table pure-table-horizontal">
                         <thead>
                             <tr>
@@ -92,7 +96,7 @@
                                 <td>2 hours</td>
                             </tr>
                             <tr>
-                                <td>8:45pm</td>
+                                <td>9:00pm</td>
                                 <td>Challenge Ends! You have until 9pm to submit your solutions, after which our machine is going to reject your solutions, however beautifully they are crafted.</td>
                                 <td>15 mins</td>
                             </tr>
@@ -102,7 +106,7 @@
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2">
                 <div class="end-float">
-                    <h2 class="content-head is-center">Day 2</h2>
+                    <h2 class="content-head is-center">Day 2(18th Apr)</h2>
                     <table class="pure-table pure-table-horizontal">
                         <thead>
                             <tr>
@@ -133,6 +137,25 @@
             </div>
         </div>
     </div>
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="pure-u-1 content">
+            <h2 class="content-head content-head-ribbon">Rules</h2>
+            <p>This contest is open to all students currently enrolled in a Singapore educational instutition.</p>
+            <p>The contest will take place on 17th Apr, 7pm to 9pm.</p>
+            <p>Winners must be present at the prize announcement ceremony on 18th Apr, 10am at the PayPal Office - 5 Temasek Boulevard #09-01, Suntec Tower Five, Singapore 038985(<a href="https://www.google.com.sg/maps/place/Singapore+038985/@1.2943698,103.8581148,19z/data=!4m2!3m1!1s0x31da19af19e4012f:0x1300f7ac70e35c13" style="color: #07C; text-decoration: none" >Google Maps</a>). - Lunch is provided!</p>
+            <p>The contest system will open two days before the contest. Participants should familiarise themselves with the system before the start.</p>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-1" style="height:150px;"></div>
+            <div class="l-box pure-u-1 pure-u-md-1-1">
+                PayPal CodeChallenge 2015
+            </div>
+        </div>
+    </div>
+
 </div>
 
 {/body}

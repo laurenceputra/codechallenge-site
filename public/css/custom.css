@@ -135,7 +135,7 @@ label {
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 500px;
+    height: 400px;
     top: 0;
     left: 0;
     position: fixed !important;
@@ -147,12 +147,13 @@ label {
     height: 50%;
     margin: 0px auto;
     position: absolute;
-    top: 110px; left: 0; bottom: 0; right: 0;
+    top: 40px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: uppercase;
 }
 .splash-logo{
-    max-width: 600px;
+    max-width: 390px;
+    height: 200px;
 }
 /* This is the main heading that appears on the blue section */
 .splash-head {
@@ -178,7 +179,7 @@ label {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 500px;
+    top: 400px;
     width: 100%;
     min-height: 12%;
     z-index: 2;
