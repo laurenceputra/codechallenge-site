@@ -1,0 +1,27 @@
+{>"layouts/master" /}
+
+{<body}
+<div class="title">
+    <div class="pure-g">
+        <div class="pure-u-1 is-center">
+            <img class="splash-logo" src="/img/codeChallengeLogo.png" />
+            <p class="splash-subhead">
+                Are you up for the PayPal CodeChallenge 2015? Sign up below!
+            </p>
+            <p>
+                <a href="/" class="pure-button pure-button-primary">Homepage</a> 
+            </p>
+            <p>
+                <div class="fb-like" data-href="https://www.facebook.com/PayPalCodeChallenge" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="content" style="padding-top:20px">
+    <div class="pure-g">
+        <div class=" is-center pure-u-1 pure-u-md-1-1">
+            <iframe style="width:700px;height:780px;border-style:none" src="https://docs.google.com/forms/d/1I0Ln_BVCt5Cs_X3oP4QflllzTa_I0C7Kgqpq_nUbWKk/viewform"></iframe>
+        </div>
+    </div>
+</div>
+{/body}

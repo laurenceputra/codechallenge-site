@@ -3,16 +3,15 @@
 {<body}
 <div class="splash-container" style="height:400px">
     <div class="splash">
-        <div class="pure-g">
-            <div class="pure-u-1-2"><img class="splash-logo" src="/img/PP_WhiteLogo.png" /></div>
-            <div class="pure-u-1-2"><img class="splash-logo" src="/img/codeChallenge.jpg" /></div>
-        </div>
+        <img class="splash-logo" src="/img/codeChallengeLogo.png" />
         <p class="splash-subhead">
             Are you up for the PayPal CodeChallenge 2015?
         </p>
         <p>
-            <a href="https://docs.google.com/forms/d/1I0Ln_BVCt5Cs_X3oP4QflllzTa_I0C7Kgqpq_nUbWKk/viewform" class="pure-button pure-button-primary">Sign up now!</a> 
-            <a href="https://www.facebook.com/PayPalCodeChallenge" class="pure-button pure-button-primary">Follow FB page!</a>
+            <a href="/signup" class="pure-button pure-button-primary">Sign up now!</a>
+        </p>
+        <p>
+            <div class="fb-like" data-href="https://www.facebook.com/PayPalCodeChallenge" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
         </p>
     </div>
 </div>

@@ -123,14 +123,18 @@ label {
     color: #AECFE5;
 }
 
-
+.title{
+    background: #009CDE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 /*
  * -- SPLASH STYLES --
  * This is the blue top section that appears on the page.
  */
 
 .splash-container {
-    background: #7e7d7d;
+    background: #009CDE;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -153,7 +157,6 @@ label {
 }
 .splash-logo{
     max-width: 390px;
-    height: 200px;
 }
 /* This is the main heading that appears on the blue section */
 .splash-head {
