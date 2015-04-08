@@ -59,23 +59,23 @@
     <div class="ribbon l-box-lrg pure-g">
         <div class="pure-u-1 content">
             <h2 class="content-head content-head-ribbon">What can I win?</h2>
-            <div class="pure-u-1 pure-u-md-1-5 prize-container">
+            <div class="pure-u-1 pure-u-md-1-5 pure-u-sm-1-3 prize-container">
                 <p>1st GoPro Camera</p>
                 <img class="prize-image" src="/img/prizes/gopro.jpg" />
             </div>
-            <div class="pure-u-1 pure-u-md-1-5 prize-container">
-                <p>2nd Parrot Minidrone</p>
-                <img class="prize-image" src="/img/prizes/parrot-drone.jpg" />
+            <div class="pure-u-1 pure-u-md-1-5 pure-u-sm-1-3 prize-container">
+                <p>2nd Parrot Minidrone - Jumping Sumo</p>
+                <img class="prize-image" src="/img/prizes/jumping_sumo.png" />
             </div>
-            <div class="pure-u-1 pure-u-md-1-5 prize-container">
+            <div class="pure-u-1 pure-u-md-1-5 pure-u-sm-1-3 prize-container">
                 <p>3rd Orbotix Ollie</p>
                 <img class="prize-image" src="/img/prizes/ollie.jpg" />
             </div>
-            <div class="pure-u-1 pure-u-md-1-5 prize-container">
+            <div class="pure-u-1 pure-u-md-1-5 pure-u-sm-1-3 prize-container">
                 <p>4th Razer Nabu</p>
                 <img class="prize-image" src="/img/prizes/nabu.jpg" />
             </div>
-            <div class="pure-u-1 pure-u-md-1-5 prize-container">
+            <div class="pure-u-1 pure-u-md-1-5 pure-u-sm-1-3 prize-container">
                 <p>5th PayPal Speaker</p>
                 <img class="prize-image" src="/img/prizes/nabu.jpg" />
             </div>
