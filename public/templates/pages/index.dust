@@ -7,8 +7,8 @@
         <p class="splash-subhead">
             Are you up for the PayPal CodeChallenge 2015?
         </p>
-            7pm - 9pm | 17th Apr
         <p>
+            7pm - 9pm | 17th Apr
         </p>
         <p>
             <a href="/signup" class="pure-button pure-button-primary">Sign up now!</a>
@@ -24,7 +24,6 @@
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2">
-
                 <h3 class="content-subhead">
                     Registration
                 </h3>
@@ -51,6 +50,12 @@
                 </p>
                 <p>
                 Any student that is currently enrolled in a school or educational institution based in Singapore, and have ID to prove it (e.g. student/matric/university card), you are eligible for this competition.
+                </p>
+                <h3 class="content-subhead">
+                    Supported Languages
+                </h3>
+                <p>
+                    C/C++, Java and Python
                 </p>
             </div>
         </div>
